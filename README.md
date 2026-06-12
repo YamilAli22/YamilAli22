@@ -1,6 +1,7 @@
 # Hey, I'm Yamil 👋
 
-I'm a 3rd-year Computer Science student at **FaMAF, UNC** (Córdoba, Argentina), passionate about building things that actually work — clean backends, interesting systems, and the occasional dive into cybersecurity and AI.
+I'm a 3rd-year Computer Science student at **FaMAF, UNC** (Córdoba, Argentina).
+I like to build things, especially in the backend area, focusing on good code practices, design, architecture and testing. I also like to learn about cybersecurity.
 
 I enjoy understanding how things work under the hood, from OS internals to API architecture. Always learning new stuff.
 
@@ -15,6 +16,10 @@ I enjoy understanding how things work under the hood, from OS internals to API a
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**Database**
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)]
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)]
 
 **Frameworks & Tools**
 
@@ -32,22 +37,18 @@ I enjoy understanding how things work under the hood, from OS internals to API a
 
 ## 🚀 Projects
 
-**[ElSwitcher – Web Board Game](https://github.com/YamilAli22/ElSwitcher)**
-> Academic team project (6 devs). I worked on the backend using Python + FastAPI, handled architecture decisions and collaborated on the React frontend when needed. Full Agile/Scrum workflow with Jira (Also check the frontend repo!! Linked in the backend README).
-
-**[Mechanic Shop Management System](https://github.com/YamilAli22/mechanic_backend)**
-> Personal project to reinforce REST API design and backend architecture. Built with FastAPI, covers the core workflows of a mechanical workshop.
-
 **[Mini Shell / Command Interpreter](https://github.com/YamilAli22/mybash)**
 > Academic project — a minimal Bash-like shell in C. Focused on OS internals: process management, system calls, pipelines & I/O redirection.
+
+**[ElSwitcher – Web Board Game](https://github.com/YamilAli22/ElSwitcher)**
+> Academic team project (6 devs). I worked on the backend using Python + FastAPI, handled architecture decisions and collaborated on the React frontend when needed. Full Agile/Scrum workflow with Jira (Also check the frontend repo!! Linked in the backend README).
 
 ---
 
 ## 📚 Currently
 
-- 3rd year @ FaMAF — diving deep into algorithms, systems, and theory
+- 3rd year @ FaMAF - diving deep into algorithms, systems, and theory
 - Exploring **Golang** for backend services
-- Getting into competitive programming
 
 ---
 
