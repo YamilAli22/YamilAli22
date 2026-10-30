@@ -39,7 +39,10 @@ I enjoy understanding how things work under the hood, from OS internals to API a
 ## 🚀 Projects
 
 **[Mini Shell / Command Interpreter](https://github.com/YamilAli22/mybash)**
-> Academic project — a minimal Bash-like shell in C. Focused on OS internals: process management, system calls, pipelines & I/O redirection.
+> Academic project - a Bash-like shell written in C. Focused on OS internals: process management, system calls, pipelines & I/O redirection.
+
+**[Game Price Tracker](https://github.com/YamilAli22/games-prices-tracker)**
+> Personal project - a price tracker for games in steam: create an account, search games you are interested in, select a target price and add the game to your list and receive a notification when the game price is lower than your target price.
 
 **[ElSwitcher – Web Board Game](https://github.com/YamilAli22/ElSwitcher)**
 > Academic team project (6 devs). I worked on the backend using Python + FastAPI, handled architecture decisions and collaborated on the React frontend when needed. Full Agile/Scrum workflow with Jira (Also check the frontend repo!! Linked in the backend README).
@@ -50,6 +53,7 @@ I enjoy understanding how things work under the hood, from OS internals to API a
 
 - 3rd year @ FaMAF - diving deep into algorithms, systems, and theory
 - Exploring **Golang** for backend services
+- Learning cybersecurity
 
 ---
 
